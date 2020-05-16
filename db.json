@@ -1,0 +1,23 @@
+{
+  "alergies1": [
+    {
+      "id": 1,
+      "name": "Antihistamines",
+      "description": "Antihistamines are available over the counter or as a prescription. They decrease the release of histamine, a natural body chemical triggered by the immune system, to help relieve symptoms such as sneezing and an itchy, runny nose. Some over-the-counter antihistamines can make kids drowsy, so they're best offered before bedtime."
+    }
+  ],
+  "alergies2": [
+    {
+      "id": 2,
+      "name": "Nasal corticosteroids",
+      "description": "Nasal corticosteroids are available by prescription and in some cases over-the-counter to relieve nasal inflammation and itchy, runny noses. One dose per day is usually sufficient. Nasal corticosteroid sprays need to be used every day, not just occasionally, to work; many people use them for years without problems."
+    }
+  ],
+  "alergies3": [
+    {
+      "id": 3,
+      "name": "Decongestants",
+      "description": "Decongestants containing phenylephrine or pseudoephedrine are available over the counter and as a prescription, though they are generally not recommended for kids under 4 years old. They work by shrinking the blood vessels in the nose to minimize and relieve congestion. Decongestants can be stimulants, causing kids to feel hyperactive or anxious or have trouble falling asleep, so they're best not used for the long term"
+    }
+  ]
+}
